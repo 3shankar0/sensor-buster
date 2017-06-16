@@ -1,2 +1,2 @@
-# dataset
-This repository contains many botnet-related research dataset
+# SensorBuster
+This repository contains dataset used in "SensorBuster: On Identifying Sensor Nodes in P2P Botnets"
