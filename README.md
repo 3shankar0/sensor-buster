@@ -5,7 +5,7 @@ Sality
 =======
 1. The files _SalityV3-##.gv_ are the pseudonymized snapshots of the Sality botnet at the lowest population of each of the seven days in our dataset.
 
-2. The files _SalityV3-##-HourlyUptime.txt_ contain the uptimes of the nodes calculated based on their responses to Hello messages.
+2. The files _SalityV3-##-Uptime.txt_ contain the uptimes of the nodes calculated based on their responses to Hello messages.
 
 ZeroAccess (ZA)
 ===============
